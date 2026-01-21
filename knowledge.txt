@@ -1,0 +1,10 @@
+How to reset your password:
+1. Go to the login page.
+2. Click on 'Forgot Password'.
+3. Enter your email address.
+4. Check your inbox for a reset link.
+5. Click the link and set a new password.
+
+Company leave policy:
+Employees are entitled to 15 days of paid annual leave.
+Leave must be approved by your manager at least one week in advance.
